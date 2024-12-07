@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="https://via.placeholder.com/1200x300/6A5ACD/FFFFFF?text=Your+Custom+Banner" alt="배너" width="100%" style="border-radius: 10px;">
+  <img src=https://raw.githubusercontent.com/hojjang98/hojjang98/main/my_photo.jpg alt="배너" width="100%" style="border-radius: 10px;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);">
     <h1 style="font-size: 36px; margin: 0;">Welcome to My Repository</h1>
     <p style="font-size: 18px;">Sharing my journey in Data Science and AI</p>
