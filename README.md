@@ -28,10 +28,10 @@
 ---
 
 ## 🌟 주요 프로젝트
-### 1. [2024 Kaggle SCU AI Competiton](https://github.com/hojjang98/Kaggle_Competition)
+### 1. [2024 Kaggle SCU AI Competiton](https://github.com/hojjang98/Kaggle_Competition/tree/main/SCU_AI_Competition)
 - 🔍 갑상선 이진 분류를 합니다! 피쳐 엔지니어링과 데이터 전처리를 다룹니다.
 
-### 2. [XRP Price Prdcition Model](https://github.com/hojjang98/Personal_Project)
+### 2. [XRP Price Prdcition Model](https://github.com/hojjang98/Personal_Project/tree/main/XRP_Prdiction_Model)
 - 🌐 화제의 코인 리플(XRP)의 가격 예측 모델입니다! 시계열 분석과 Arima Model을 다룹니다. 실패한 모델이지만, 첫 개인 프로젝트의 의미가 깊습니다.
 
 ---
