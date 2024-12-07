@@ -2,12 +2,12 @@
   <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Repository!" alt="배너" width="100%">
 </div>
 
-# 👋 안녕하세요, 저는 [사용자 이름]입니다!
+# 👋 안녕하세요, 저는 [최호준]입니다!
 
-저의 레포지토리에 오신 것을 환영합니다! 저는 **데이터 사이언스**, **빅데이터**, 그리고 **정보보호**에 열정을 가지고 있습니다. 현재는 기술의 세계를 탐구하며 의미 있는 프로젝트를 만들기 위해 노력하고 있습니다.
+저의 레포지토리에 오신 것을 환영합니다! 저는 **데이터 사이언스**, **빅데이터**, 그리고 **사회의 행복증진**에 열정을 가지고 있습니다. 현재는 기술의 세계를 탐구하며 의미 있는 프로젝트를 만들기 위해 노력하고 있습니다.
 
 ## 🚀 저에 대해
-- 🎓 **University of Mannheim**(독일)에서 경영학을 전공한 경험이 있습니다.
+- 🎓 **University of Mannheim**(독일)에서 경영학을 전공한 경험이 있습니다. 현재는 **서울사이버대학교** 에서 다른 길을 걷는 중입니다!
 - 📊 **데이터 기반 인사이트**를 현실 세계에 적용하는 것에 관심이 많습니다.
 - 🌱 새로운 도구와 기술을 지속적으로 학습하고 있습니다.
 
@@ -26,11 +26,11 @@
 ---
 
 ## 🌟 주요 프로젝트
-### 1. [프로젝트 이름 1](https://github.com/yourusername/project1)
-- 🔍 프로젝트의 간단한 설명, 목표, 사용된 기술
+### 1. [2024 Kaggle SCU AI Competiton](https://github.com/hojjang98/Kaggle_Competition)
+- 🔍 갑상선 이진 분류를 합니다! 피쳐 엔지니어링과 데이터 전처리를 다룹니다.
 
-### 2. [프로젝트 이름 2](https://github.com/yourusername/project2)
-- 🌐 프로젝트가 해결한 문제 또는 영향을 간단히 설명
+### 2. [XRP Price Prdcition Model](https://github.com/hojjang98/Personal_Project)
+- 🌐 화제의 코인 리플(XRP)의 가격 예측 모델입니다! 시계열 분석과 Arima Model을 다룹니다. 실패한 모델이지만, 첫 개인 프로젝트의 의미가 깊습니다.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 📫 연락하기
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ghwns970821@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hojjang98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/hojjang98"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
