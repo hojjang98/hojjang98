@@ -18,7 +18,7 @@
 - 🎓 독일 **University of Mannheim**에서 경영학을 전공한 경험이 있으며,  
   현재는 **서울사이버대학교**에서 데이터 기반 진로로 방향을 전환했습니다.
 - 📊 **현실 문제를 데이터 기반으로 분석하고 해결하는 것**에 큰 관심이 있습니다.
-- 🌱 현재 **머신러닝, 시계열 분석, 통계 모델링** 등을 학습하며 포트폴리오를 구축하고 있습니다.
+- 🌱 현재 **머신러닝, 시계열 분석, 통계 모델링, 딥러닝** 등을 학습하며 포트폴리오를 구축하고 있습니다.
 
 ---
 
@@ -26,9 +26,19 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+## 🌱 Currently Learning
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statsmodels-AAAAAA?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
