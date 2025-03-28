@@ -1,7 +1,7 @@
 <!-- 깃허브에서는 style 적용이 제한될 수 있으니 아래처럼 간단하게 유지 -->
 <div align="center">
   <h1>Welcome to My GitHub Repository</h1>
-  <p>Exploring Data Science, Machine Learning, and Big Ideas!</p>
+  <p>Exploring Data Science, Machine Learning, and Real-World Problems!</p>
 </div>
 
 ---
