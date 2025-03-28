@@ -53,7 +53,7 @@
 - 결과 분석을 통해 의료 데이터에서의 모델 성능 해석 방법을 배웠습니다.
 
 ### 📌 [XRP Price Prediction Model](https://github.com/hojjang98/Personal_Project/tree/main/XRP_Prdiction_Model)
-- 화제의 암호화폐 **XRP(리플)**의 가격을 예측하는 시계열 모델링 프로젝트입니다.
+- 화제의 암호화폐 **XRP(리플)** 의 가격을 예측하는 시계열 모델링 프로젝트입니다.
 - **ARIMA** 모델을 사용했으며, 실전 예측 모델로 연결되진 못했지만, 데이터 기반 투자 분석의 기초를 배웠습니다.
 - 첫 개인 프로젝트로서 큰 의미가 있는 작업입니다.
 
