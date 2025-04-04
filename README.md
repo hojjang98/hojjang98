@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hojun Choi (hojjang98)
 
-<!--
-**hojjang98/hojjang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm slowly, steadily, and seriously building my path toward becoming a data scientist.  
+This is where I document my journey, one project and one lesson at a time.
 
-Here are some ideas to get you started:
+---
+## 🚀 What I’m working on
+- 🛣️ Traffic route optimization (in `projects/traffic-analysis`)
+- 🤖 Studying machine learning and hands-on ML practices
+- 🎓 Attending university lectures with focus and dedication
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Interests
+- Python · pandas · scikit-learn · matplotlib
+- Statistics · Machine Learning · Data Visualization
+- Always curious about how data can reveal hidden patterns in the real world.
+---
+
+## 📂 Key Repositories
+- 🔬 [`projects`](https://github.com/hojjang98/projects) – in progress, coming soon!
+- 📝 [`study-notes`](https://github.com/hojjang98/study-notes) – notes under construction
+- 🧪 [`kaggle`](https://github.com/hojjang98/kaggle) – preparing to upload notebooks
+
+---
+
+📫 *Feel free to explore, watch my progress, or reach out!*
