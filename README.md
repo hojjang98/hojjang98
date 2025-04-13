@@ -17,9 +17,8 @@ This is where I document my journey, one project and one lesson at a time.
 ---
 
 ## 📂 Key Repositories
-- 🔬 [`projects`](https://github.com/hojjang98/projects) – in progress, coming soon!
-- 📝 [`study-notes`](https://github.com/hojjang98/study-notes) – notes under construction
-- 🧪 [`kaggle`](https://github.com/hojjang98/kaggle) – preparing to upload notebooks
+- 🔬 [`scu_ai_competitions`](https://github.com/hojjang98/scu_ai_competitions) – in progress, coming soon!
+- 📝 [`ideas`](https://github.com/hojjang98/ideas) – notes under construction
 
 ---
 
