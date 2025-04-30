@@ -21,5 +21,5 @@ This is where I document my journey, one project and one lesson at a time.
 - 📝 [`ideas`](https://github.com/hojjang98/ideas) – notes under construction
 
 ---
-
+📘 Visit my blog: [hojjang98.github.io](https://hojjang98.github.io/)
 📫 *Feel free to explore, watch my progress, or reach out!*
