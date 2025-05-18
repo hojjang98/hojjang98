@@ -19,6 +19,8 @@ This is where I document my journey, one project and one lesson at a time.
 ## 📂 Key Repositories
 - 🚢 [`titanic-survival-prediction`](https://github.com/hojjang98/titanic-survival-prediction) – complete end-to-end ML project using Kaggle Titanic dataset (EDA, feature engineering, ensemble models, tuning & leaderboard submission)
 - 🔬 [`scu_ai_competitions`](https://github.com/hojjang98/scu_ai_competitions) – in progress, coming soon!
+- 🍱 [`food-image-classification`](https://github.com/hojjang98/food-image-classification) – beginner-friendly computer vision project with CNNs & transfer learning, custom Google-crawled dataset, data cleaning, augmentation & evaluation
+
 
 ---
 📘 Visit my blog: [hojjang98.github.io](https://hojjang98.github.io/)
