@@ -4,24 +4,28 @@ I'm slowly, steadily, and seriously building my path toward becoming a data scie
 This is where I document my journey, one project and one lesson at a time.
 
 ---
+
 ## 🚀 What I’m working on
-- 🛣️ Traffic route optimization (in `projects/traffic-analysis`)
-- 🤖 Studying machine learning and hands-on ML practices
-- 🎓 Attending university lectures with focus and dedication
+- 🧠 Building end-to-end machine learning pipelines (EDA → modeling → tuning → evaluation)
+- 📸 Working on real-time image classification with CNNs and OpenCV
+- 🧪 Studying core deep learning concepts through chapter-based notebook projects
+- 🎓 Attending university courses with focus on AI, statistics, and data science foundations
+
 ---
 
 ## 🧠 Skills & Interests
-- Python · pandas · scikit-learn · matplotlib
-- Statistics · Machine Learning · Data Visualization
-- Always curious about how data can reveal hidden patterns in the real world.
+- **Languages**: Python · Markdown · Git
+- **Libraries**: pandas · NumPy · scikit-learn · Matplotlib · Seaborn · TensorFlow · Keras · OpenCV
+- **Topics**: Data Analysis · Machine Learning · Deep Learning · Computer Vision · Feature Engineering · Model Tuning
+- **Learning Interests**: Transfer Learning · SHAP/XAI · Model deployment · Real-world data storytelling
+
 ---
 
 ## 📂 Key Repositories
-- 🚢 [`titanic-survival-prediction`](https://github.com/hojjang98/titanic-survival-prediction) – complete end-to-end ML project using Kaggle Titanic dataset (EDA, feature engineering, ensemble models, tuning & leaderboard submission)
-- 🔬 [`scu_ai_competitions`](https://github.com/hojjang98/scu_ai_competitions) – in progress, coming soon!
-- 🍱 [`food-image-classification`](https://github.com/hojjang98/food-image-classification) – beginner-friendly computer vision project with CNNs & transfer learning, custom Google-crawled dataset, data cleaning, augmentation & evaluation
-
+- 🧠 [Computer Vision Project Collection](https://github.com/hojjang98/CV-Projects)
+- 📊 [Machine Learning Project Collection](https://github.com/hojjang98/ML-Projects)
 
 ---
-📘 Visit my blog: [hojjang98.github.io](https://hojjang98.github.io/)
+
+📘 Visit my blog: [hojjang98.github.io](https://hojjang98.github.io/)  
 📫 *Feel free to explore, watch my progress, or reach out!*
